@@ -3,6 +3,8 @@
 #include"rectangle.h";
 using namespace std;
 
+//this cpp file contains the implementation of function used in the rectangle header file
+
 void Rectangle::getWidth(){
 	cout<<"Width is : "<<width<<endl;
 }
