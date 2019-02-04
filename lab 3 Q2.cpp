@@ -7,7 +7,7 @@
 #include<iostream>
 using namespace std;
 
-
+//this cpp file acts as the main body 
 int _tmain(int argc, _TCHAR* argv[])
 {
 	Rectangle r1;
